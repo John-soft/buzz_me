@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801815343794",
+    "project_id": "buzzme-c67ef",
+    "storage_bucket": "buzzme-c67ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801815343794:android:95e5041d942b7980fbcfab",
+        "android_client_info": {
+          "package_name": "com.example.buzz_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801815343794-40ae2bc9o70p9gs0557estdnp2qs4oe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buzz_me",
+            "certificate_hash": "b117f894e75566bdf5c365bcaf9551a428549a01"
+          }
+        },
+        {
+          "client_id": "801815343794-ugdrhdt1qspo5jcdio2pdd01mckmuglu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-00qtcMr4oB-WoNNUa81NrGgalJvO-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801815343794-ugdrhdt1qspo5jcdio2pdd01mckmuglu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
